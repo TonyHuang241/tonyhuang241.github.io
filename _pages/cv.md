@@ -32,6 +32,6 @@ Experience
 Skills
 ======
 * Coding: Python, Stata
-* Language: Mandarin, English
+* Language: Mandarin(Native), English(TOFEL: 104)
 
 
