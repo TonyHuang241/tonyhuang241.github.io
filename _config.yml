@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Zhaogang(Tony) Huang"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate student in RUC majoring in Finance and Mathematics"
+  bio              : "Undergraduate student at Renmin University of China(RUC) majoring in Finance and Mathematics"
   location         : "China"
   employer         : # "Red Brick University"
   uri              : # URL
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/TonyHuang241"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -256,32 +256,32 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # # _publications
-  # - scope:
-  #     path: ""
-  #     type: publications
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
-  # # _portfolio
-  # - scope:
-  #     path: ""
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
-  # # _talks
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: talk
-  #     author_profile: true
-  #     share: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
