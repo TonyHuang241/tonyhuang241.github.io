@@ -1,3 +1,9 @@
+Zhaogang(Tony) Huang
+
+I am currently a senior undergraduat student majoring in Finance and Mathematics at Renmin University of China(RUC) and I anticipate to obtain my Bachelor's Degree at June 2025.
+
+My research interest is investment decision, institutional investor, and behavioral finance.
+
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
