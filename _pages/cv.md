@@ -20,14 +20,14 @@ Institutional Investor, Asset Pricing, Behavioral Finance
 
 Experience
 ======
-* Oct. 2024 - Now: Research Assistant
-  * To prof.Zhigang Qiu at Renmin University of China(RUC)
-  * I examine the effects of fund manager turnover on individual investors investment decisions and find that ...
-* Oct. 2023 - Feb. 2024: Research Assistant
-  * To prof.Erica Li at Cheung Kong Graduate School of Business
-  * Identified corporates' investment spike by replicating the process in Im, Mayer, and Sussman(2020) 
-  * Replicated the results of examining taxes' effects on corporate leverage with staggered DID in Heider and Ljungqvist(2015, JFE)
-  * Collected and Cleaned States' taxes date in the U.S.
+* Oct. 2024 - Now: Research Assistant to Prof.Zhigang Qiu
+  * *Renmin University of China*
+  * Investigating the impact of fund manager turnover on individual investors' investment decisions, with preliminary findings indicating that ...
+* Oct. 2023 - Feb. 2024: Research Assistant to Prof. Erica X. Li
+  * *Cheung Kong Graduate School of Business*
+  * Identified corporate investment spikes by replicating the methodology in Im, Mayer, and Sussman (2020).
+  * Reproduced the results of Heider and Ljungqvist (2015, *JFE*) on the effects of taxes on corporate leverage using a staggered DID approach.
+  * Collected and cleaned U.S. state tax data for empirical analysis.
 
 Skills
 ======
