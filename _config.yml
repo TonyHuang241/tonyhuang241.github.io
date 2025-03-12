@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Zhaogang Huang"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidates in School of Economics, Peking University"
+  bio              : "School of Economics, Peking University"
   location         : "China"
   employer         : # "Red Brick University"
   uri              : # URL
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/TonyHuang241"
+  github           : "https://github.com/TonyHuang241?tab=repositories"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
